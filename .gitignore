@@ -1,0 +1,11 @@
+# Ignore os arquivos de sistema do Mac
+.DS_store
+
+# Ignore todos os arquivos de texto:
+*.txt
+*.pdf
+
+# Ignore todos os arquivos de teste:
+android-teste.html
+teste_responsivo.html
+
