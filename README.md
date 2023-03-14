@@ -10,9 +10,6 @@ Este é um projeto construído juntamente com o Professor Gustavo Guanabara do C
 
 <img src="./site-android.gif" alt="Gif do Projeto">
 
-<hr>
-<br>
-
 <h2>
 Tecnológias Utilizadas
 </h2>
@@ -21,9 +18,6 @@ Tecnológias Utilizadas
 <li>HTML5; e</li>
 <li>CSS3.</li>
 </ul>
-
-<hr>
-<br>
 
 <h2>
 O que foi aprendido?
@@ -34,9 +28,6 @@ Foi posto em prática conteúdos básicos de HTML5, como a organização de tít
 
 Bem como usado o CSS para um ideal uso de cores e escolha de paletas, estilização, prática do modelo de caixas, e o uso de seletores personalizados <em>"pseudo-classes"</em> e <em>"pseudo-elements"</em>.
 </p>
-
-<hr>
-<br>
 
 <p>
 É possível acessar o site do projeto clicando <a href="https://viti-martins.github.io/desafio-site-android-curso-em-video/index.html"
