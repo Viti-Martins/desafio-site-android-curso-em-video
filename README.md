@@ -42,4 +42,6 @@ Ou apontando a câmera do seu celular para o QR Code:
 <img src="qr-code-projeto.png">
 </p>
 
+## Licença
 
+[MIT License](LICENSE)
